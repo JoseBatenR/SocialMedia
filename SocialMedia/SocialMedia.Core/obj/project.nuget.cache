@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5VlzmARguEh53/AytlW4955lCkax/884hgpSMDcE5leFL0sQ/59AN8G+yWItpAM4q7q7ZvFERZsl/H/4tC4rQ==",
+  "success": true,
+  "projectFilePath": "E:\\c#\\MediaSolution\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Josel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
